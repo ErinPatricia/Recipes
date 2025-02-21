@@ -1,7 +1,7 @@
 # Guacomole
 ## Ingredients
 * avocado
-* lime
+* lemon
 * salt
 ## Instructions
-*Cut the avocado
+
